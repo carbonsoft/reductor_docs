@@ -16,7 +16,7 @@
 
 # Базовые настройки Carbon Reductor
 ## Установка CentOS 6.5
-Для установки рекомендуется использовать CentOS 6.5 Minimal x86_64, добыть который можно с любого из [[http://www.centos.org/modules/tinycontent/index.php?id=30 зеркал]]. 
+Для установки рекомендуется использовать CentOS 6.5 Minimal x86_64, добыть который можно с любого из [зеркал](http://www.centos.org/modules/tinycontent/index.php?id=30 зеркал). 
 
 Внимание - CentOS 7, по крайней мере на октябрь 2014 не поддерживается!
 
@@ -289,7 +289,7 @@ Carbon Reductor будет обрезать GET запрос и блокиров
 **Более 50 Гбит/с.** Как правило требуется установка нескольких серверов фильтрации, аналогичных описанным в пункте 10-50Гбит/с. Масштабирование не ограничено. Лучше посоветоваться с суппортом.
 
 # Настройка зеркала трафика на коммутаторах
-Как уже говорилось [[http://xgu.ru/wiki/Carbon_Reductor#.D0.9D.D0.B0.D1.81.D1.82.D1.80.D0.BE.D0.B9.D0.BA.D0.B0_.D1.81.D0.BA.D0.B0.D0.BD.D0.B8.D1.80.D0.BE.D0.B2.D0.B0.D0.BD.D0.B8.D1.8F_.D1.82.D1.80.D0.B0.D1.84.D0.B8.D0.BA.D0.B0 выше]], Carbon Reductor умеет сканировать трафик направляемый с коммутатора.
+Как уже говорилось выше Carbon Reductor умеет сканировать трафик направляемый с коммутатора.
 
 Делается это следующим образом.
 
@@ -346,7 +346,7 @@ Carbon Reductor будет обрезать GET запрос и блокиров
 
 
 # Процесс отладки фильтрации
-Перед обращением в поддержку с заявлением о том, что сайты не фильтруются стоит выполнить диагностику, убедиться что всё в порядке, после чего сделать дополнительные [[http://docs.carbonsoft.ru/pages/viewpage.action?pageId=48693470 проверки]].
+Перед обращением в поддержку с заявлением о том, что сайты не фильтруются стоит выполнить диагностику, убедиться что всё в порядке, после чего сделать дополнительные (http://docs.carbonsoft.ru/pages/viewpage.action?pageId=48693470)[проверки].
 
 ## Проверить FORWARD
 
@@ -408,12 +408,12 @@ Carbon Reductor будет обрезать GET запрос и блокиров
 Проблемы обычно возникают с нагрузкой на сетёвки, что решаемо, при использовании хорошего оборудования.
 
 # Ссылки
-[http://docs.carbonsoft.ru/display/reductor Документация]
+(http://docs.carbonsoft.ru/display/reductor)[Документация]
 
-[http://docs.carbonsoft.ru/pages/viewpage.action?pageId=48037971 Подробное описание алгоритма фильтрации URL] 
+(http://docs.carbonsoft.ru/pages/viewpage.action?pageId=48037971)[Подробное описание алгоритма фильтрации URL]
 
-[http://www.carbonsoft.ru Оифицальный сайт компании]
+(http://www.carbonsoft.ru)[Оифицальный сайт компании]
 
-[http://www.carbonsoft.ru/products/reductor/carbon-reductor?xgu Страница проекта]
+(http://www.carbonsoft.ru/products/reductor/carbon-reductor?rtd)[Страница проекта]
 
-[https://twitter.com/carbon_reductor Twitter проекта]
+(https://twitter.com/carbon_reductor)[Twitter проекта]
