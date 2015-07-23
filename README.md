@@ -408,12 +408,12 @@ Carbon Reductor будет обрезать GET запрос и блокиров
 Проблемы обычно возникают с нагрузкой на сетёвки, что решаемо, при использовании хорошего оборудования.
 
 # Ссылки
-(http://docs.carbonsoft.ru/display/reductor)[Документация]
+[Документация](http://docs.carbonsoft.ru/display/reductor)
 
-(http://docs.carbonsoft.ru/pages/viewpage.action?pageId=48037971)[Подробное описание алгоритма фильтрации URL]
+[Подробное описание алгоритма фильтрации URL](http://docs.carbonsoft.ru/pages/viewpage.action?pageId=48037971)
 
-(http://www.carbonsoft.ru)[Оифицальный сайт компании]
+[Оифицальный сайт компании](http://www.carbonsoft.ru)
 
-(http://www.carbonsoft.ru/products/reductor/carbon-reductor?rtd)[Страница проекта]
+[Страница проекта](http://www.carbonsoft.ru/products/reductor/carbon-reductor?rtd)
 
-(https://twitter.com/carbon_reductor)[Twitter проекта]
+[Twitter проекта](https://twitter.com/carbon_reductor)
